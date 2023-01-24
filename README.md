@@ -29,7 +29,9 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![gcd of two number](2.2.png)
+![gcd of two number]!![Screenshot_20230124_102638](https://user-images.githubusercontent.com/121115650/214358068-0cd22411-fdb7-4820-b7f1-67f3b9f148ed.png)
+
+
 
 
 ## Result:
